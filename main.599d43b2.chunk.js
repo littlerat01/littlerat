@@ -16036,7 +16036,7 @@
           {
             label: "Home",
             icon: "HomeIcon",
-            href: "https://twitter.com/littlerat_twt"
+            href: "#"
           },
           {
             label: "Trade",
