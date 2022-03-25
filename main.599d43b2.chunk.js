@@ -15945,7 +15945,7 @@
         xb = t.n(vb),
         Ob = {
           nativeTokenAddress: "0x9672ba8b3695d0403ba652b9812433eaee36f55e",
-          busdAddress: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+          busdAddress: "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
           lpAddress: "0xc7ba3d4039d546AE6ecD3b790ae8C6B43a59D7Ce"
         },
         gb = function() {
