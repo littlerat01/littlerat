@@ -16191,13 +16191,13 @@
                       children: [
                         Object(fn.jsx)(xt, {}),
                         Object(fn.jsxs)("div", {
-                          className: "Mainsitearrow",
+                          className: "",
                           children: [
                             Object(fn.jsx)("a", {
                               href:"https://bit.ly/3AXVKqK",
                               target:"_blank",
                               children: Object(fn.jsx)("img", {
-                                src: "https://64.media.tumblr.com/3721bdf5409c46742c364180ef41b018/tumblr_n9hrd6XawS1rpco88o1_r1_500.gifv",
+                                src: "",
                                 className: "",
                                 alt: ""
                               })
